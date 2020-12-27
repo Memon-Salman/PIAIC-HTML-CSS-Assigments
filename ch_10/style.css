@@ -1,0 +1,44 @@
+table,tr,td {
+    border: 1px solid;
+    padding: 10px;
+   
+
+}
+table {
+   margin: 0 auto;
+   font-weight: 600;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1 {
+    text-align: center;
+}
+.bg-lightBrown {
+    background-color: #ff7f50;
+}
+.bg-skyBlue {
+    background-color: #6495ed;
+}
+.bg-lightPurple {
+    background-color: #da70d6;
+}
+.bg-darkPurple {
+    background-color: #7b68ee;
+}
+.bg-yellow {
+    background-color: #ffd700;
+}
+.bg-green {
+    background-color: #2e8b57;
+}
+.bg-brown{
+    background-color: #a0522d;
+}
+.bg-pink {
+    background-color: #fa8072;
+}
+.bg-darkYellow {
+    background-color: #daa520;
+}
+.bg-lightPink {
+    background-color: #ffb6c1;
+}
