@@ -105,6 +105,10 @@ header {
 nav {
     justify-content: space-between !important;
     padding: 5px 10px;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    background-color: #ffffff;
 }
 .nav-logo img{
     max-width: 10.5em;
